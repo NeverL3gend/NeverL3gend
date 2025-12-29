@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**NeverL3gend/NeverL3gend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is a simple README to introduce myself and what I'm working on.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning **Python** and **SQL**
+* Interested in automation testing, cybersecurity, and backend development
+* Building small projects to improve my skills
+
+## 🧰 Tech I'm Exploring
+
+* Python
+* SQL
+* Automation tools
+* Cybersecurity basics
+
+## 📂 Current Projects
+
+* Learning scripts and small automation tools
+* Practice projects to build my portfolio
+
+## 📫 Contact
+
+Feel free to reach out or check out my repositories!
